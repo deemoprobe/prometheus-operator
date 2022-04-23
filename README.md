@@ -1,2 +1,1 @@
-# prometheus-operator
-quay.io/prometheus-operator/prometheus-operator:v0.55.1
+quay.io/prometheus-operator/prometheus-operator:v0.53.1
